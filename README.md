@@ -1,2 +1,4 @@
-My First Test on Using GIT for GITHUB
-JERSON VILLEGAS
+# JavaScript Review by Jerson A. Villegas
+  JERSON VILLEGAS
+
+# Updating file from repo and pull changes to local
